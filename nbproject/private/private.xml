@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/goModifMedecin.jsp</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/src/java/fonctions/FactureMere.java</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/src/java/fonctions/Operation.java</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/src/java/fonctions/FactureFille.java</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/goPayeff.jsp</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/deleteMedecin.jsp</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/ordonnance.jsp</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/templates/header.jsp</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/showPat.jsp</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/deleteCategorie.jsp</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/insertMedecin.jsp</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/src/java/fonctions/Payement.java</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/goIns.jsp</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/goShow.jsp</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/src/java/fonctions/ConnectPG.java</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/inscriptionUser.jsp</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/modifCategorie.jsp</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/src/java/CaptchaPlissServlet.java</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/src/java/fonctions/Medecin.java</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/src/java/fonctions/Article.java</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/login.jsp</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/payement.jsp</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/goFact.jsp</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/WEB-INF/classes/CaptchaServlet.java</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/test/fonctions/LoginTest.java</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/simplecaptcha.jsp</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/modifMedecin.jsp</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/src/java/fonctions/Patient.java</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/goShowPat.jsp</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/WEB-INF/web.xml</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/templates/footer.jsp</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/src/java/fonctions/Login.java</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/src/java/fonctions/DetailPayement.java</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/captchasubmit.jsp</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/goModifCategorie.jsp</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/goMedocSession.jsp</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/goPaye.jsp</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/showMed.jsp</file>
+            <file>file:/D:/iTu/s5/Mme%20Baovola/hopital/web/listeCategorie.jsp</file>
+        </group>
+    </open-files>
+</project-private>

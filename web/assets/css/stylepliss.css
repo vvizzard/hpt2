@@ -1,0 +1,41 @@
+body{
+	background-color:#f8f8f8;
+}
+.navbar-inverse{
+	background-color:#f2f2f2;
+	border-color:#f1f1f1;
+}
+.top-nav>li>a{
+	color:#78c13e;
+}
+.navbar-brand{
+	color:#78c13e!important;
+}
+.top-nav>li>a:hover, .top-nav>li>a:focus, .top-nav>.open>a, .top-nav>.open>a:hover, .top-nav>.open>a:focus {
+	color: #fff;
+    background-color: #7abf40;
+}
+.navbar-fixed-top {
+    top: 44px!important;
+}
+.tete{
+	background-color: white!important;
+}
+.tete>h1{
+	margin-top: -45px!important;
+	margin-left: -225px;
+	background-color: white!important;
+	padding-left: 10px;
+	color:#78c13e;
+}
+#foot{
+	position: absolute;
+	bottom:1px;
+}
+.lg{
+	margin-top:100px!important;
+}
+.pt{
+	margin-left:10px!important;
+	margin-right:10px!important;
+}

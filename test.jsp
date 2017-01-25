@@ -1,0 +1,1 @@
+<h1>Bonjour <% out.println(request.getParameter("name"));%></h1>
